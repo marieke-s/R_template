@@ -1,3 +1,5 @@
+Template from Intro2R (https://alexd106.github.io/intro2R/project_setup.html)
+
 # Directory Structure
       Root 
            |
