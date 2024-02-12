@@ -1,8 +1,8 @@
 ---
-title: "Tests"
+title: "Template"
 author: "Marieke Schultz"
 date: "2024-02-12"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
