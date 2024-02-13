@@ -15,18 +15,7 @@ Template from Intro2R (https://alexd106.github.io/intro2R/project_setup.html)
            |
            |_output
            |
-           |__data
-           |    |_raw_data
-           |    |_processed_data
-           |    |_metadata
-           |
-           |_R
-           |
-           |_Rmd
-           |
-           |_scripts
-           |
-           |_output
+           |__figures
 
 In my working directory I have the following directories:
 
@@ -41,3 +30,4 @@ Root - This is your project directory containing your .Rproj file.
 - scripts/analyses - All of the main R scripts/Rmd I have written for the current project are saved here.
 
 - output - Outputs from my R scripts such as plots, HTML files and data summaries are saved in this directory. This helps me and my collaborators distinguish what files are outputs and which are source files.
+- figures 
