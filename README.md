@@ -10,9 +10,8 @@ Template from Intro2R (https://alexd106.github.io/intro2R/project_setup.html)
            |
            |_R
            |
-           |_Rmd
            |
-           |_scripts
+           |_scripts/analyses
            |
            |_output
            |
@@ -39,8 +38,6 @@ Root - This is your project directory containing your .Rproj file.
 
 - R - This is an optional directory where I save all of my custom R functions I have written for the current analysis. These can then be sourced into R using the source() function.
 
-- Rmd - An optional directory where I save my R markdown documents.
-
-- scripts - All of the main R scripts I have written for the current project are saved here.
+- scripts/analyses - All of the main R scripts/Rmd I have written for the current project are saved here.
 
 - output - Outputs from my R scripts such as plots, HTML files and data summaries are saved in this directory. This helps me and my collaborators distinguish what files are outputs and which are source files.
