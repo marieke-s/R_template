@@ -8,7 +8,7 @@ Template from Intro2R (https://alexd106.github.io/intro2R/project_setup.html)
            |    |_processed_data
            |    |_metadata
            |
-           |_R
+           |_utils
            |
            |
            |_scripts/analyses
@@ -25,7 +25,7 @@ Root - This is your project directory containing your .Rproj file.
         - Any processed data should be saved to a separate file and stored in the processed_data subdirectory.
         - Information about data collection methods, details of data download and any other useful metadata should be saved in a text document (see README text files below) in the metadata subdirectory.
 
-- R - This is an optional directory where I save all of my custom R functions I have written for the current analysis. These can then be sourced into R using the source() function.
+- utils - This is an optional directory where I save all of my custom R functions I have written for the current analysis. These can then be sourced into R using the source() function.
 
 - scripts/analyses - All of the main R scripts/Rmd I have written for the current project are saved here.
 
